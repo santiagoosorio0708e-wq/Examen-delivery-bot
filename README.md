@@ -24,8 +24,15 @@ El proyecto está diseñado bajo una arquitectura sin servidores (*serverless*) 
 4. **Ciclo de Vida de Pedidos Dinámico:** Permite a la cocina y administradores cambiar el estado del pedido (`Recibido` ➔ `Preparación` ➔ `En camino` ➔ `Entregado`) notificando instantáneamente al cliente.
 5. **Base de Datos No-Code:** Totalmente gestionable desde Google Sheets para facilitar actualizaciones de menú sin necesidad de alterar código.
 6. **Gestión de Horarios:** El bot informa automáticamente a los usuarios si intentan interactuar fuera del horario de atención (Lunes a Viernes, 8am a 5pm).
+   ## MENSAJE DE CAFETERIA CERRADA
+  <img width="926" height="345" alt="image" src="https://github.com/user-attachments/assets/4040a747-1d4f-4cdb-aa20-b9ebd424ece3" />
+ ## FUNCIONALIDAD EN EL WORKFLOW 
+ <img width="546" height="617" alt="image" src="https://github.com/user-attachments/assets/a3dddf1d-93a7-4c8e-9789-ee7b8b43cd66" />
+<img width="1548" height="790" alt="image" src="https://github.com/user-attachments/assets/72e3eeab-896a-46bd-b02a-12430de68e74" />
+## VALIDACIONES 
+<img width="1548" height="790" alt="image" src="https://github.com/user-attachments/assets/65d8cbe7-613c-43a1-b0ef-bb95eba493a5" />
+<img width="127" height="186" alt="image" src="https://github.com/user-attachments/assets/60e3929a-2799-4a0f-af60-40d65f0cc284" />
 
-   ![Aviso de Cafetería Cerrada](screenshot_cerrado.png)
 
 ---
 
